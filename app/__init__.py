@@ -1,0 +1,1 @@
+"""FastAPI learning project package."""
